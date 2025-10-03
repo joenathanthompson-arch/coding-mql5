@@ -203,8 +203,8 @@ input int MediumImpactMinutesAfter = 15;
 
 input group "=== TELEGRAM SETTINGS ==="
 input bool EnableTelegramNotifications = true;
-input string TelegramBotToken = "8489494391:AAEqPQ_D73--0qO4gARKPt0KNNb1PTblHj4";
-input string TelegramChatID = "8152608970";
+input string TelegramBotToken = "  ";
+input string TelegramChatID = "  ";
 input bool TelegramInteractiveMode = true;
 input int TelegramCheckIntervalSeconds = 10;
 input int TelegramApprovalTimeoutMinutes = 5;
@@ -11783,4 +11783,5 @@ void CheckManualTradeWarnings()
 
 //+------------------------------------------------------------------+
 //| End of Enhanced ALMA_EA_v3.04.mq5                              |
+
 //+------------------------------------------------------------------+
